@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cars-Redux-Exercise/static/css/main.3e3cb0c8.chunk.css",
+    "main.js": "/cars-Redux-Exercise/static/js/main.d1188dbe.chunk.js",
+    "main.js.map": "/cars-Redux-Exercise/static/js/main.d1188dbe.chunk.js.map",
+    "runtime-main.js": "/cars-Redux-Exercise/static/js/runtime-main.37ed02fd.js",
+    "runtime-main.js.map": "/cars-Redux-Exercise/static/js/runtime-main.37ed02fd.js.map",
+    "static/js/2.62fa9a0c.chunk.js": "/cars-Redux-Exercise/static/js/2.62fa9a0c.chunk.js",
+    "static/js/2.62fa9a0c.chunk.js.map": "/cars-Redux-Exercise/static/js/2.62fa9a0c.chunk.js.map",
+    "index.html": "/cars-Redux-Exercise/index.html",
+    "static/css/main.3e3cb0c8.chunk.css.map": "/cars-Redux-Exercise/static/css/main.3e3cb0c8.chunk.css.map",
+    "static/js/2.62fa9a0c.chunk.js.LICENSE.txt": "/cars-Redux-Exercise/static/js/2.62fa9a0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37ed02fd.js",
+    "static/js/2.62fa9a0c.chunk.js",
+    "static/css/main.3e3cb0c8.chunk.css",
+    "static/js/main.d1188dbe.chunk.js"
+  ]
+}
